@@ -34,4 +34,4 @@ The aim of this project was to leverage data analytics techniques to determine t
 
 =======
 # T20-World-cup-Analysis-Project
->>>>>>> 0cfac89cf5a67bd6eda71a1ddf8c6775229d32f6
+#Author : Himanshu Jain
