@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cricket-Data-Analytics-Project-Using-Web-Scraping-Python-Pandas-and-Power-BI
 
 
@@ -32,3 +33,6 @@ The aim of this project was to leverage data analytics techniques to determine t
 **Outcomes:**
 - The project's dynamic and informative dashboards provided actionable insights for cricket team management, coaches, and enthusiasts to strategize and select the best playing 11 for the ICC Cricket World Cup 2022.
 
+=======
+# T20-World-cup-Analysis-Project
+>>>>>>> 0cfac89cf5a67bd6eda71a1ddf8c6775229d32f6
